@@ -5,3 +5,7 @@ Answer: It allows multiple people to work on the same project at the same time, 
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science could be applied to political science to help make polling more accurate to the end result of an election. 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging does not change the commit history and just ties together the two branches. Rebasing rewrites the history, adding one branches history to the end of the other branch.
