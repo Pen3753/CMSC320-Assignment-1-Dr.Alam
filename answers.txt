@@ -9,3 +9,7 @@ Answer: Data science could be applied to political science to help make polling 
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging does not change the commit history and just ties together the two branches. Rebasing rewrites the history, adding one branches history to the end of the other branch.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I want to improve on my ability to implement the various statistical methods I learned about in STAT 400, and also be prepared for AI/Machine Learning courses.
