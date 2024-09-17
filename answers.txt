@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to political science to help make polling more accurate to the end result of an election. 
