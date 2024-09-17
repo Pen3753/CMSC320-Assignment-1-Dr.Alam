@@ -1,3 +1,7 @@
 Q1: Why might be consider using git?
 
 Answer: It allows multiple people to work on the same project at the same time, it also tracks changes made to the files in the repository so you can see who made what change.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to political science to help make polling more accurate to the end result of an election. 
